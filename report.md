@@ -8,7 +8,7 @@ The **Software** was held on.
 * RStudio
 * Hello
 * whatever
-* Tablemates ;)
+* About my tablemates ;)
 
 ##Look for markdown syntax
 
