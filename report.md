@@ -14,3 +14,5 @@ The **Software** was held on.
 [all RStudio cheatsheets](https://rstudio.com/resources/cheatsheets/)
 
 How do I add an image? Unicorns and cats are good.
+
+![An old fashioned unicorn](https://www.gmcrafts.co.uk/wp-content/uploads/2018/11/Pink-Unicorn-With-Rainbow-Embedded-Product-Image.png)
